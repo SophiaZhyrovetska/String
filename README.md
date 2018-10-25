@@ -27,7 +27,7 @@ make
 ## Usage
 AFTER Building:
 
-.exe files are in directory <b>String/bin</b>
+.exe files are in directory <b>String/examples/bin</b>
 
 To run a file - run a corresponding .bat file in direcory String:
 ```sh
